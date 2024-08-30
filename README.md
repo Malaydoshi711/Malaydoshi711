@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malaydoshi711&label=Profile%20views&color=0e75b6&style=flat" alt="malaydoshi711" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=malaydoshi711" alt="malaydoshi711" /></a> </p>
-
 - 📫 How to reach me **malaydoshi711@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1dYYqqqO85Fl8xAc2cH1Jv_N76jAhHBn0](https://drive.google.com/drive/u/0/folders/1dYYqqqO85Fl8xAc2cH1Jv_N76jAhHBn0)
