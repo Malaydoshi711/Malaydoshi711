@@ -1,25 +1,50 @@
-<h1 align="center">Hello World 👋, I'm Malay Doshi</h1>
-<h3 align="center">A data Science and Machine Learning Enthusiast</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Malay%20Doshi&fontSize=78&fontColor=fff&fontAlignY=37&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Published%20Author&descAlignY=57&descColor=c9d1d9&animation=twinkling" width="100%"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=malaydoshi711&label=Profile%20views&color=0e75b6&style=flat" alt="malaydoshi711" /> </p>
-
-- 📫 How to reach me **malaydoshi711@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1dYYqqqO85Fl8xAc2cH1Jv_N76jAhHBn0](https://drive.google.com/drive/u/0/folders/1dYYqqqO85Fl8xAc2cH1Jv_N76jAhHBn0)
-
-- ⚡ Fun fact **I find peace in nature, whether it’s hiking in the mountains or just taking a walk in the park. It’s my way of recharging.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/malaydoshi711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="malaydoshi711" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/malay doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="malay doshi" height="30" width="40" /></a>
-<a href="https://instagram.com/malaydoshi711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malaydoshi711" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/malay doshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="malay doshi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=79C0FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+Engineer;AI+Researcher+%7C+Published+Author;Agentic+AI+%7C+LangGraph+%7C+MCP;Computer+Vision+%7C+NLP+%7C+AI+Security" alt="Typing SVG"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/malaydoshi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/malaydoshi711"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
+  <a href="https://malaydoshi.framer.website/"><img src="https://img.shields.io/badge/Portfolio-%236E56CF.svg?style=for-the-badge&logo=framer&logoColor=white"/></a>
+  <a href="mailto:malaydoshi711@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Malaydoshi711&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=malaydoshi711&show_icons=true&locale=en&layout=compact" alt="malaydoshi711" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=malaydoshi711&show_icons=true&locale=en" alt="malaydoshi711" /></p>
+
+## 🧠 About Me
+
+I'm a **AIML Engineer** and **AI Researcher** from Pune, India — completing my BTech in Computer Science at Symbiosis Institute of Technology (Class of 2026).
+
+My work bridges **AI security**, **agentic systems**, and **production-ready ML** — from production-grade pipelines to research published in **Springer** and **Taylor & Francis**.
+
+- 🛡️ **AIML Intern** @ Guardinger Advanced Technologies — building defense-grade ML/DL systems
+- 🛰️ **Research Intern** @ COEP — satellite image segmentation 
+- 🏆 **Best Paper Award** · 7th Int'l SCI Conference · Kuala Lumpur, Malaysia · 2025
+- 📄 **4× Published** · Springer · Taylor & Francis · Mendeley
+
+
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,mysql,aws,git,github,vscode,linux&theme=dark"/>
+</p>
+
+
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Malaydoshi711&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=130&section=footer" width="100%"/>
+</div>
