@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="70" viewBox="0 0 840 70" role="img" aria-label="Open to full-time roles in ML, deep learning and LLM engineering."><title>Open to full-time roles in ML, deep learning and LLM engineering.</title><style>
+    .s { font-family: -apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Helvetica,Arial,sans-serif; } .m { font-family: ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace; }
+    .fade { opacity: 0; animation: fade .7s ease forwards; }
+    .rise { opacity: 0; animation: rise .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes fade { to { opacity: 1; } }
+    @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    @keyframes pulse { 0%,100% { opacity: .35; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; transform: none !important; } }
+    </style><rect x="1" y="1" width="838" height="68" rx="16" fill="#ffffff" stroke="#e8dfd2" stroke-width="1.2"/><text x="420.0" y="42" text-anchor="middle" class="s" font-size="14" fill="#6b6258">Open to full-time roles in ML, deep learning and LLM engineering. <tspan fill="#d9481a">Say hello.</tspan></text></svg>

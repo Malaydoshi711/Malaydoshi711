@@ -1,50 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Malay%20Doshi&fontSize=78&fontColor=fff&fontAlignY=37&desc=ML%20Engineer%20%7C%20AI%20Researcher%20%7C%20Published%20Author&descAlignY=57&descColor=c9d1d9&animation=twinkling" width="100%"/>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" width="100%" alt="Malay Doshi, Data Scientist. Machine learning, deep learning and LLM systems, taken from raw data to production."></picture>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=79C0FF&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Machine+Learning+Engineer;AI+Researcher+%7C+Published+Author;Agentic+AI+%7C+LangGraph+%7C+MCP;Computer+Vision+%7C+NLP+%7C+AI+Security" alt="Typing SVG"/>
-</p>
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="About: Junior Data Scientist at Guardinger Advanced Technologies; focus on machine learning, deep learning and LLM and agentic systems; 4 papers with a Best Paper Award; BTech CSE at Symbiosis Institute of Technology; Pune, India, open to remote roles and relocation."></picture>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><img src="assets/experience-light.svg" width="100%" alt="Experience: Research Intern at COEP Technological University (Feb 2025), AIML Intern at Guardinger Advanced Technologies (Jun 2025), Junior Data Scientist at Guardinger (Jul 2026, current)."></picture>
+
+<br>
+
+<a href="https://link.springer.com/chapter/10.1007/978-3-032-08240-4_9"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/research-dark.svg"><img src="assets/research-light.svg" width="100%" alt="Research: Hybrid Deep Learning Models for Enhanced Password Security Assessment (Best Paper Award, SCI-2025, Springer); Transfer Learning and Ensemble Models for Enhanced Malware Detection (FICTA-2025, Springer Nature); CyberShield (SUSCOM-2025, Journal of Information and Optimization Sciences); A Multi-Agent Conversational Framework for Autonomous Data Analysis and Visualization (ISDIA-2026)."></picture></a>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Toolkit: Python, SQL, PyTorch, TensorFlow, scikit-learn, Hugging Face, XGBoost, LightGBM, OpenCV, SHAP, LangGraph, LangChain, LlamaIndex, CrewAI, MCP, RAG, LangSmith, Databricks, MLflow, Mosaic AI, Docker, FAISS, n8n, AWS, GCP Vertex AI, Streamlit, Power BI."></picture>
+
+<br>
 
 <p align="center">
-  <a href="https://linkedin.com/in/malaydoshi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/malaydoshi711"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white"/></a>
-  <a href="https://malaydoshi.framer.website/"><img src="https://img.shields.io/badge/Portfolio-%236E56CF.svg?style=for-the-badge&logo=framer&logoColor=white"/></a>
-  <a href="mailto:malaydoshi711@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=Malaydoshi711&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS"/>
+<a href="https://malaydoshi.tech"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-site-dark.svg"><img src="assets/btn-site-light.svg" width="24%" alt="Portfolio: malaydoshi.tech"></picture></a>
+<a href="https://linkedin.com/in/malaydoshi"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" width="24%" alt="LinkedIn"></picture></a>
+<a href="https://x.com/malaydoshi711"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-x-dark.svg"><img src="assets/btn-x-light.svg" width="24%" alt="X"></picture></a>
+<a href="mailto:malaydoshi711@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-mail-dark.svg"><img src="assets/btn-mail-light.svg" width="24%" alt="Email"></picture></a>
 </p>
 
-
-
-## 🧠 About Me
-
-I'm a **AIML Engineer** and **AI Researcher** from Pune, India — completing my BTech in Computer Science at Symbiosis Institute of Technology (Class of 2026).
-
-My work bridges **AI security**, **agentic systems**, and **production-ready ML** — from production-grade pipelines to research published in **Springer** and **Taylor & Francis**.
-
-- 🛡️ **AIML Intern** @ Guardinger Advanced Technologies — building defense-grade ML/DL systems
-- 🛰️ **Research Intern** @ COEP — satellite image segmentation 
-- 🏆 **Best Paper Award** · 7th Int'l SCI Conference · Kuala Lumpur, Malaysia · 2025
-- 📄 **4× Published** · Springer · Taylor & Francis · Mendeley
-
-
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,mysql,aws,git,github,vscode,linux&theme=dark"/>
-</p>
-
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Malaydoshi711&theme=tokyonight&hide_border=true"/>
-</p>
-
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=130&section=footer" width="100%"/>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg"><img src="assets/footer-light.svg" width="100%" alt="Open to full-time roles in ML, deep learning and LLM engineering."></picture>
